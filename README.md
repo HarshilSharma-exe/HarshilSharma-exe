@@ -112,10 +112,10 @@ Every bug is another lesson.
 Every commit is another step forward.
 
 ```text
-      ┌──────────────────────────────┐
-      │   KEEP BUILDING. KEEP LEARNING.   │
-      │          NEVER STOP. ⚡          │
-      └──────────────────────────────┘
+       ┌──────────────────────────────┐
+       │ KEEP BUILDING. KEEP LEARNING.│
+       │       ⚡ NEVER STOP.⚡      │    
+       └──────────────────────────────┘
 ```
 
 ---
