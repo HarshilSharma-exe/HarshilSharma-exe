@@ -18,7 +18,7 @@
 
 Hey! I'm **Harshil Sharma**, a B.Tech CSE student at **SRM University** who enjoys building things, solving problems, and constantly experimenting with new technologies.
 
-I’m focused on becoming a strong **software & full-stack developer**, with a particular interest in programming, web development, system-level projects, and cybersecurity.
+
 
 > *“A little progress every day eventually becomes something extraordinary.”* ⚡
 
